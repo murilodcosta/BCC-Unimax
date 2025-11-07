@@ -1,4 +1,4 @@
-# 📚 My [Your Degree Name] Studies
+# 📚 My Computer Science Studies
 
 This repository is dedicated to organizing all the projects, assignments, exercises, and notes from my academic journey in B.S. in Computer Science at Centro Universitário Max Planck (Brazil, Indaiatuba - SP).
 
@@ -31,7 +31,7 @@ A categorized list of the main technologies and tools I am using throughout this
 
 ## 🔗 Useful Links
 * [My LinkedIn Profile](https://linkedin.com/in/murilo-dias-da-costa)
-* [My Personal Portfolio](in progress...)
+* My Personal Portfolio (in progress...)
 
 ---
 *This repository is a work in progress.*
